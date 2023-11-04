@@ -68,7 +68,6 @@
     width: 255px;
     height: 300px;
     content: "";
-    border-radius: 50%;
     background-color: var(--basic-pink);
   }
   
@@ -91,7 +90,6 @@
   
   .avatar {
     border: 10px solid white;
-    border-radius: 50%;
     box-shadow: 0 0 20px rgba(168, 58, 144, 0.646);
   }
   
@@ -219,7 +217,8 @@
   }
 
   .project__tech {
-    color: var(--basic-pink);
+    color: rgb(77, 10, 136);
+    font-weight: 700;
   }
   
   /* Education section */
