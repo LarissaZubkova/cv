@@ -221,16 +221,6 @@
     font-weight: 700;
   }
 
-  .project__overlay{
-    display:none;
-    max-height: 200px;
-    overflow-y: scroll;
-  }
-
-  .project__preview:hover .project__overlay{
-    display: block;
-  }
-  
   /* Education section */
   
   .education__list {
